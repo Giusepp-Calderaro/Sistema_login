@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conteiner{
+    width: 100vw;
+    height: 100vh;
+    background: #6C7A89;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+#box{
+    width: 300px;
+    height: 300px;
+    background: #fff;
+    border-radius: 40px;
+    padding: 20px;
+    border-top: 15px solid #1ba39c;
+    border-bottom: 15px solid #1ba39c;
+}
+h1{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    font-size: 23pt;
+}
+h3{
+    margin-top: 10px;
+    font-size: 12pt;
+    text-align: center;
+    font-family: Arial;
+    font-style: normal;
+}
+.caixa{
+    width: 88.5%;
+    margin-top: 10px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 40px;
+    font-size: 12pt;
+}
+#botao{
+    width: 100%;
+    padding: 12px;
+    margin-top: 5px;
+    border-radius: 40px;
+    background-color: #1ba39c;
+    color: white;
+}
